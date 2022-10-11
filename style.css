@@ -1,0 +1,116 @@
+body {
+    background-image: url(https://media.istockphoto.com/photos/black-roses-isolated-on-a-black-background-greeting-card-with-roses-picture-id1084428210?k=6&m=1084428210&s=170667a&w=0&h=FflqaeDny6kTAZR_e_htRudPRN6NF81VByMk4vQR5U0=);
+    background-position: center;
+    backdrop-filter: blur(2px);
+    /*font-family: "Cuprum", sans-serif;*/
+}
+
+.container-fluid {
+    background-color: black;
+    opacity: 85%;
+    height: 100%;
+    width: 80%;
+}
+
+.box {
+    background-size: cover;
+    background-color: rgb(255, 227, 243);
+    padding: 2em;
+    margin: 2em;
+    border-radius: 1em;
+}
+
+.img-box {
+    background-size: cover;
+    background-color: black;
+    border-radius: 1em;
+    margin: 2em;
+}
+
+footer {
+    background-color:black;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+h1, table {
+    font-family: "Raleway", Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family: "Gill Sans", Verdana, sans-serif;
+    
+}
+
+h3 {
+    font-size: 1.4em;
+    font-family: "Gill Sans", Verdana, sans-serif;
+}
+
+p {
+    font-size: 1.1em;
+    font-family: "Gill Sans", Verdana, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+    text-align: justify;
+}
+
+h4 {
+    padding-top: 0.5em;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: right;
+    font-family: "Cuprum", Calibri, sans-serif;
+}
+
+.icons {
+    color: white;
+    font-size: 2em;
+}
+
+/* individual images and stylings*/
+
+#portrait {
+    border-radius: 0.3em;
+}
+
+#spring {
+    background-color: #f3ffe3;
+}
+  
+#springcover {
+    border-radius: 0.5em;
+}
+  
+#kyotocover {
+    border-radius: 0.5em;
+}
+ 
+  
+#cyberpunk {
+    background-color: #e3fffb;
+}
+  
+#cybercover {
+    border-radius: 0.5em;
+
+}
+  
+#pride {
+    background-color: rgb(255, 117, 131);
+}
+  
+#pridecover {
+    border-radius: 0.5em;
+}
+  
+#goddess {
+    background-color: #ffe9e3;
+}
+  
+#goddesscover {
+    border-radius: 0.5em;
+}
+  
